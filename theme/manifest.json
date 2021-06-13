@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+  "version": "${npm_package_version}",
+  "name": "${themeName}",
+  "theme": {
+    "images": {},
+    "properties": {},
+    "colors": {
+      "toolbar": "#${activeBackground}",
+      "toolbar_text": "#${activeForeground}",
+      "frame": "#${inactiveBackground}",
+      "tab_background_text": "#${inactiveForeground}",
+      "toolbar_field": "#${inactiveBackground}",
+      "toolbar_field_text": "#${activeForeground}",
+      "tab_line": "#${activeBorder}",
+      "popup": "#${inactiveBackground}",
+      "popup_text": "#${activeForeground}",
+      "toolbar_top_separator": "#${inactiveBackground}",
+      "tab_loading": "#${activeBorder}"
+    }
+  }
+}
