@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Gruvbox Dark Medium",
+  "theme": {
+    "images": {},
+    "properties": {},
+    "colors": {
+      "toolbar": "rgb(60, 56, 54)",
+      "toolbar_text": "rgb(235, 219, 178)",
+      "frame": "rgb(40, 40, 40)",
+      "tab_background_text": "rgb(168, 153, 132)",
+      "toolbar_field": "rgb(44, 43, 42)",
+      "toolbar_field_text": "rgb(235, 219, 178)",
+      "tab_line": "rgb(104, 157, 106)",
+      "popup": "rgb(40, 40, 40)",
+      "popup_text": "rgb(235, 219, 178)",
+      "toolbar_top_separator": "rgb(40, 40, 40)",
+      "tab_loading": "rgb(104, 157, 106)"
+    }
+  }
+}
