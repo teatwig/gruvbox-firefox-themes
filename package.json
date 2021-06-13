@@ -1,0 +1,13 @@
+{
+  "name": "firefox-gruvbox-themes",
+  "license": "Unlicense",
+  "private": true,
+  "scripts": {
+
+    "lint": "for d in gruvbox-*/; do web-ext lint -s $d; done",
+    "build": "for d in gruvbox-*/; do web-ext build -s $d --overwrite-dest; done"
+  },
+  "devDependencies": {
+    "web-ext": "^6.1.0"
+  }
+}

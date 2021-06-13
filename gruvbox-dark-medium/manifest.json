@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Gruvbox Dark Medium",
+  "theme": {
+    "images": {},
+    "properties": {},
+    "colors": {
+      "toolbar": "#3c3836",
+      "toolbar_text": "#ebdbb2",
+      "frame": "#282828",
+      "tab_background_text": "#a89984",
+      "toolbar_field": "#2a2b2c",
+      "toolbar_field_text": "#ebdbb2",
+      "tab_line": "#689d6a",
+      "popup": "#282828",
+      "popup_text": "#ebdbb2",
+      "toolbar_top_separator": "#282828",
+      "tab_loading": "#689d6a"
+    }
+  }
+}
