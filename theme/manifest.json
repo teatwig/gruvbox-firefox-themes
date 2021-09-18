@@ -6,17 +6,23 @@
     "images": {},
     "properties": {},
     "colors": {
+      "frame": "#${inactiveBackground}",
       "toolbar": "#${activeBackground}",
       "toolbar_text": "#${activeForeground}",
-      "frame": "#${inactiveBackground}",
-      "tab_background_text": "#${inactiveForeground}",
       "toolbar_field": "#${inactiveBackground}",
       "toolbar_field_text": "#${activeForeground}",
+      "toolbar_top_separator": "#${activeBackground}",
+      "toolbar_bottom_separator": "#${activeBackground}",
+      "tab_background_text": "#${inactiveForeground}",
       "tab_line": "#${activeBorder}",
+      "tab_loading": "#${activeBorder}",
       "popup": "#${inactiveBackground}",
       "popup_text": "#${activeForeground}",
-      "toolbar_top_separator": "#${inactiveBackground}",
-      "tab_loading": "#${activeBorder}"
+      "ntp_background": "#${inactiveBackground}",
+      "ntp_text": "#${activeForeground}",
+      "sidebar": "#${inactiveBackground}",
+      "sidebar_border": "#${activeBackground}",
+      "sidebar_text": "#${activeForeground}"
     }
   }
 }
